@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #1d1c1c;
+  }
+  
+  #array {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid #5b5a5b;
+  }
+  
+  .bar {
+    width: 10px;
+    margin: 0 1px;
+    background-color: rgb(73, 128, 0);
+  }
+  
